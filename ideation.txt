@@ -1,0 +1,32 @@
+Who: will use the app?
+       Artists : That want to create an account so that can be booked by
+       club-owners, festival events, radio station.
+
+       Club promoter: That want to book an artist to play at club
+
+       Festival events: That want to book an artist to be part of the line up.
+
+       Radio Station: That want to book an artist for interview or performance.
+
+
+What:
+
+	Zeal is an artist booking agency that manages the admin of their registered artists.
+	An artist that is part of Zeal can be booked for performances,interviews or both.
+	The artist can be booked by festival event organisers, club promoters and radio stations.
+
+Where:
+
+    Web-app
+
+Why:
+
+	So that artist can expand their brand by performing and sharing their story to fans.
+	It is also a way to put credibility and remmuneration to the artists work.
+
+How:
+
+
+	Artist can create their account, and upload their media-kit on the web-app.
+	Then the interested parties can book them on the web-app.
+

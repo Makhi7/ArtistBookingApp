@@ -1,0 +1,21 @@
+Think of the objects[Components]
+	. Artist
+	. ClubPromoter
+	. EventPlanner
+	. RadioStation
+	. TheExchange
+
+Conceptualize classes
+	Artist
+
+			Instance variables
+			    private String artistName;
+                private String genreOfMusic;
+                private String city;
+                private String recordLabel;
+
+			//methods
+            //check bookings made for a time period
+            //accepts booking made by interested parties
+            //rejects booking made by interested party
+

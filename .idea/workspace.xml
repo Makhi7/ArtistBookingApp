@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0a9a111-bfc5-4b17-b3ed-474c4e4ab3ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ideation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/makeshiftumldesign.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/devatwork/artist/Artist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co/devatwork/artisttest/ArtistTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BvmvcLFnaAsmcfLQVSRcs3VTl2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/makhi/code_grind/OnSight/JulyTwe/ArtistBookingApp",
+    "settings.editor.selected.configurable": "terminal"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.ArtistTest.shouldProvideArtistRecordLabel">
+    <configuration name="ArtistTest.shouldProvideArtistCity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ArtistBookingApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.devatwork.artisttest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.devatwork.artisttest" />
+      <option name="MAIN_CLASS_NAME" value="co.devatwork.artisttest.ArtistTest" />
+      <option name="METHOD_NAME" value="shouldProvideArtistCity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArtistTest.shouldProvideArtistGenre" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ArtistBookingApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.devatwork.artisttest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.devatwork.artisttest" />
+      <option name="MAIN_CLASS_NAME" value="co.devatwork.artisttest.ArtistTest" />
+      <option name="METHOD_NAME" value="shouldProvideArtistGenre" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArtistTest.shouldProvideArtistName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ArtistBookingApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.devatwork.artisttest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.devatwork.artisttest" />
+      <option name="MAIN_CLASS_NAME" value="co.devatwork.artisttest.ArtistTest" />
+      <option name="METHOD_NAME" value="shouldProvideArtistName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArtistTest.shouldProvideArtistRecordLabel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ArtistBookingApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.devatwork.artisttest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.devatwork.artisttest" />
+      <option name="MAIN_CLASS_NAME" value="co.devatwork.artisttest.ArtistTest" />
+      <option name="METHOD_NAME" value="shouldProvideArtistRecordLabel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArtistTest.shouldProvideArtistRecordLabel" />
+        <item itemvalue="JUnit.ArtistTest.shouldProvideArtistCity" />
+        <item itemvalue="JUnit.ArtistTest.shouldProvideArtistGenre" />
+        <item itemvalue="JUnit.ArtistTest.shouldProvideArtistName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0a9a111-bfc5-4b17-b3ed-474c4e4ab3ee" name="Changes" comment="" />
+      <created>1657795168608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657795168608</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
