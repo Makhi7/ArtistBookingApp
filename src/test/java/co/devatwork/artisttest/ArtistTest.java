@@ -59,4 +59,18 @@ public class ArtistTest {
         assertEquals(response,request);
     }
 
+    //should recieve input from user on terminal
+    @Test
+    public void shouldProvideNameViaUserInput(){
+
+
+        String openingPrintOut = "Blanka";
+
+        Artist testArt = new Artist(openingPrintOut,"Afro-soul","Cape Town","Get Physical");
+
+        String request = testArt.getArtistName();
+        String response = "Blanka";
+        assertEquals(response,request);
+
+    }
 }

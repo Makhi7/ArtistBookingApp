@@ -1,5 +1,6 @@
 package co.devatwork.artist;
 
+
 public class Artist {
 
     private String artistName;
@@ -13,6 +14,7 @@ public class Artist {
     }
 
     public Artist(String name, String genreOfMusic, String city, String recordLabel){
+
         this.artistName = name;
         this.genreOfMusic = genreOfMusic;
         this.city = city;
@@ -20,9 +22,18 @@ public class Artist {
 
     }
 
+
     public String getArtistName(){
         return artistName;
     }
+
+//    public String artistNameInput(String name){
+//
+//        Scanner scan = new Scanner(System.in);
+//        System.out.println("Enter your name:");
+//        name = scan.nextLine();
+//        return name;
+//    }
 
     public String getGenreOfMusic() {
         return genreOfMusic;
@@ -37,6 +48,7 @@ public class Artist {
     public String getRecordLabel() {
         return recordLabel;
     }
+
 
     //methods
     //check bookings made for a time period
